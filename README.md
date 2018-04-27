@@ -1,4 +1,1 @@
-# A Java Project(Game)
-
-
-# Jolly Jumper
+# A Java Project(Game): Jolly Jumper
